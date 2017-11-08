@@ -1,0 +1,16 @@
+﻿Build started 10/24/2017 12:51:27 PM.
+     1>Project "D:\EMPEROR_COMPANY\CODE\EmpG90_VS2013\OTHERS\DataBase\DataBase\DataBase.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp SQLDB.cpp
+         SQLDB.cpp
+         Main.cpp
+         Generating Code...
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\EMPEROR_COMPANY\CODE\EmpG90_VS2013\OTHERS\DataBase\Debug\DataBase.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\EMPEROR_COMPANY\CODE\EmpG90_VS2013\OTHERS\DataBase\Debug\DataBase.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\EMPEROR_COMPANY\CODE\EmpG90_VS2013\OTHERS\DataBase\Debug\DataBase.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\SQLDB.obj
+         DataBase.vcxproj -> D:\EMPEROR_COMPANY\CODE\EmpG90_VS2013\OTHERS\DataBase\Debug\DataBase.exe
+     1>Done Building Project "D:\EMPEROR_COMPANY\CODE\EmpG90_VS2013\OTHERS\DataBase\DataBase\DataBase.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24
